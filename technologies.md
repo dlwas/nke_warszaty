@@ -21,6 +21,7 @@
 #### CSS
 - [`CSS`](https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=pl) - Język stylów do definiowania wyglądu dokumentów HTML.
 - [`SCSS`](https://sass-lang.com/) - Rozszerzenie składni CSS, wprowadzające dodatkowe funkcje.
+- [`Shadcn`](https://ui.shadcn.com/)
 - [`Tailwind CSS`](https://tailwindcss.com/) - Framework CSS oparty na klasach, umożliwiający szybkie tworzenie interfejsów użytkownika.
 - [`Bootstrap`](https://getbootstrap.com/) - Popularny framework CSS zawierający gotowe komponenty i style.
 
