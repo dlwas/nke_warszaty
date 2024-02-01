@@ -33,3 +33,17 @@
 #### Inne / rozwój
 - [`Mateusz Chrobok`](https://www.youtube.com/@MateuszChrobok) (PL, rozwój)
 - [`Szymon Negacz`](https://www.youtube.com/@SzymonNegacz) (PL, rozwój)
+
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+# [`Let's build a feature, live!`](https://www.youtube.com/watch?v=rM_rDBWQTBk) (EN, rozwój)
+ 
