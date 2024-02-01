@@ -24,3 +24,11 @@
 - `git tag -a <nazwa> -m "opis"`: Tworzy anotowany tag wraz z opisem.
 - `git tag`: Wyświetla listę wszystkich tagów w repozytorium.
 - `git show <nazwa_tagu>`: Wyświetla szczegóły dotyczące określonego tagu.
+
+
+#### Przykłady widomości komitów 
+
+- "Naprawiono błąd z wyświetlaniem danych w formularzu logowania"
+- "Dodano nową funkcję filtrowania wyników wyszukiwania"
+- "Aktualizacja interfejsu użytkownika - zmiana kolorów tła i czcionek"
+- "Zaktualizowano dokumentację dotyczącą interfejsu API"
