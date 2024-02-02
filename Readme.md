@@ -13,7 +13,7 @@
 #
 
 - [`searchParams()`](https://developer.mozilla.org/en-US/docs/Web/API/URL/searchParams)
-- 
+
 #
 
 [`Excalidraw`](https://excalidraw.com/)
