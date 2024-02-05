@@ -9,7 +9,7 @@
 #### GIT
 - [`git`](https://git-scm.com/) - Rozproszony system kontroli wersji do zarządzania kodem źródłowym projektów.
 - [`GitHub`](https://github.com/) - Platforma hostingowa umożliwiająca współpracę i zarządzanie kodem Git.
-- [`BitBucket`](https://bitbucket.org/) - Podobna do GitHub, oferuje prywatne repozytoria.
+- [`BitBucket`](https://bitbucket.org/) - Podobna do GitHub.
 - [`GitLab`](https://gitlab.com/) - Platforma hostingowa z możliwością instalacji na własnym serwerze.
 
 #### Języki programowania
@@ -21,7 +21,7 @@
 #### CSS
 - [`CSS`](https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=pl) - Język stylów do definiowania wyglądu dokumentów HTML.
 - [`SCSS`](https://sass-lang.com/) - Rozszerzenie składni CSS, wprowadzające dodatkowe funkcje.
-- [`Shadcn`](https://ui.shadcn.com/)
+- [`Shadcn`](https://ui.shadcn.com/) - Ostylowana bliblioteka gotowych komponentów bazująca na Radix UI oraz TailwindCSS.
 - [`Tailwind CSS`](https://tailwindcss.com/) - Framework CSS oparty na klasach, umożliwiający szybkie tworzenie interfejsów użytkownika.
 - [`Bootstrap`](https://getbootstrap.com/) - Popularny framework CSS zawierający gotowe komponenty i style.
 
@@ -30,11 +30,11 @@
 - [`Sequelize`](https://sequelize.org/) - Popularny ORM dla JavaScript i TypeScript, obsługujący różne bazy danych relacyjne.
 
 #### Walidator
-- [`ZOD`](https://zod.dev/) - Biblioteka do walidacji danych w JavaScript, oferująca wyrafinowane funkcje walidacji.
+- [`ZOD`](https://zod.dev/) - Biblioteka do walidacji danych w TypeScript.
 
 #### Bazy danych
 - [`SQLite3`](https://www.sqlite.org/) - Lekka relacyjna baza danych, często używana w aplikacjach o niewielkim rozmiarze.
-- [`PostgreSQL`](https://www.postgresql.org/) - Zaawansowana relacyjna baza danych, charakteryzująca się wysoką wydajnością i rozszerzalnością.
+- [`PostgreSQL`](https://www.postgresql.org/) - Zaawansowana relacyjna baza danych, charakteryzująca się wysoką wydajnością i skalowalością.
 - [`Redis`](https://redis.io/) - Szybka, in-memory baza danych używana głównie do przechowywania danych w formie klucz-wartość oraz do cache'owania.
 - [`MongoDB`](https://www.mongodb.com/) - NoSQL baza danych dokumentowa, elastyczna i skalowalna.
 - [`Pinecone`](https://www.pinecone.io/) - Nowoczesna baza danych wielomodelowa, łącząca zalety baz relacyjnych i NoSQL.
@@ -42,9 +42,9 @@
 
 #### FrontEnd
 - [`React`](https://reactjs.org/) / [`Next.js`](https://nextjs.org/) - Biblioteka/framework do budowy aplikacji internetowych.
-- [`Vue.js`](https://vuejs.org/)  / [`Nuxt.js`](https://nuxt.com/) - Progresywny framework JavaScript do budowy interfejsów użytkownika.
+- [`Vue.js`](https://vuejs.org/)  / [`Nuxt.js`](https://nuxt.com/) - Framework do budowy aplikacji internetowych.
 - [`Angular`](https://angular.io/) - Framework do budowy aplikacji internetowych.
-- [`Svelte`](https://svelte.dev/) - Nowoczesny framework JavaScript, który przekształca kod w wysokowydajny JavaScript.
+- [`Svelte`](https://svelte.dev/) - Framework JavaScript, który przekształca kod w wysokowydajny JavaScript.
 
 #### Kompilatory / bundler-y
 - [`Webpack`](https://webpack.js.org/) - Narzędzie do budowy pakietów JavaScript, umożliwiające zarządzanie zależnościami.
